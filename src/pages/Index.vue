@@ -254,7 +254,7 @@
 
     <section class="section is-medium contact ">
       <div class="columns is-centered">
-        <div class="column is-6 has-text-centered">
+        <div class="column is-5 has-text-centered">
           <h2 class="title is-4-mobile is-size-2 is-capitalized has-text-white">
             Are you ready to start a campaign?
           </h2>
